@@ -63,6 +63,7 @@ function closeMenu() {
   document.body.classList.remove('menu-expanded')
 }
 
+
 ScrollReveal({
   origin: 'top',
   distance: '30px',
